@@ -1,0 +1,6 @@
+- spring
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-mongodb
+https://docs.spring.io/spring-data/mongodb/docs/current/api/org/springframework/data/mongodb/core/MongoOperations.html
+
+- mongodb
+http://mongodb.github.io/mongo-java-driver/3.8/
